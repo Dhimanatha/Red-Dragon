@@ -1,84 +1,292 @@
-{
-  "name": "Red-Dragon-MD",
-  "version": "4.0.0",
-  "description": "Automated whatsapp md bot created using nodejs",
-  "main": "boot.js",
-  "type": "commonjs",
-  "scripts": {
-    "start": "node boot.js"
-  },
-  "keywords": [
-    "termux",
-    "whatsapp",
-    "red-dragon",
-    "base",
-    "baileys-md",
-    "bot",
-    "bot-md",
-    "multi-device"
-  ],
-  "author": "Xeon",
-  "license": "MIT",
-  "dependencies": {
-    "@adiwajshing/baileys": "github:prabhasha2006/baileys",
-    "@adiwajshing/keyed-db": "^0.2.4",
-    "@bochilteam/scraper": "^2.0.0",
-    "@shineiichijo/marika": "^2.0.2",
-    "@develoka/angka-terbilang-js": "^1.4.2",
-    "@shineiichijo/nhentai-pdf": "^1.0.5",
-    "awesome-phonenumber": "^2.64.0",
-    "axios": "^0.24.0",
-    "chalk": "^4.1.2",
-    "cheerio": "^1.0.0-rc.10",
-    "child_process": "^1.0.2",
-    "crypto": "^1.0.1",
-    "tod-api": "^1.0.5",
-    "file-type": "^16.5.3",
-    "fluent-ffmpeg": "^2.1.2",
-    "fs": "0.0.1-security",
-    "got": "^11.8.3",
-    "dhn-api": "^1.1.3",
-    "emoji-api": "^1.0.2",
-    "textmaker-thiccy": "^1.3.1",
-    "g-i-s": "^2.1.6",
-    "google-it": "^1.6.2",
-    "human-readable": "^0.2.1",
-    "jimp": "^0.16.1",
-    "jsdom": "^16.4.0",
-    "lowdb": "^2.1.0",
-    "mongoose": "^6.2.1",
-    "moment-timezone": "^0.5.34",
-    "mumaker": "^1.0.0",
-    "node-cron": "^3.0.0",
-    "anime-wallpaper": "^1.0.2",
-    "node-fetch": "^2.6.1",
-    "node-webpmux": "^3.1.0",
-    "os": "^0.1.2",
-    "hxz-api": "^1.0.1",
-    "minecraft-query": "^1.0.13",
-    "path": "^0.12.7",
-    "perf_hooks": "0.0.1",
-    "pino": "^7.0.5",
-    "qrcode-terminal": "^0.12.0",
-    "request": "^2.88.2",
-    "remove.bg": "^1.3.0",
-    "scrape-primbon": "^1.1.0",
-    "util": "^0.12.4",
-    "yargs": "^17.2.1",
-    "xfarr-api": "^1.0.2",
-    "yt-search": "^2.10.2"
-  },
-  "directories": {
-    "lib": "lib",
-    "src": "src"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
-  },
-  "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
-  },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
-}
+creds	
+noiseKey	
+private	
+type	"Buffer"
+data	"aEQbS57SklWi2ClhmagfiXZUAka6tA0mDtpjvylxyWY="
+public	
+type	"Buffer"
+data	"eOp2x8CA019p3WKi9iXWNMV5rcNJarTVn51z5tBEYmE="
+signedIdentityKey	
+private	
+type	"Buffer"
+data	"oJh0+mglz6JiU90SfAGwyCgSuz/klTIyiLGqYFY2fWQ="
+public	
+type	"Buffer"
+data	"4fnUA4dh5/4bNIduYCmeNrgBqlS1yg7cbapUyQ4wFQ8="
+signedPreKey	
+keyPair	
+private	
+type	"Buffer"
+data	"uDEPQeqq50zP+2wyOZkhYrIaWkef4lasojcWDFYQXkU="
+public	
+type	"Buffer"
+data	"YpK3gNtNt1g8YQluIdcj/KOtwlqSdrditTKKhg5DFVs="
+signature	
+type	"Buffer"
+data	"Zdx+qS4YnVILxUiQK8U2gdTX/c1VPpWicrjYqC5C7qRKxB1MY9/A1RjTNtvFpjHLMKURwwaKp/c2h7O7npl0jQ=="
+keyId	1
+registrationId	152
+advSecretKey	"oImFR8Ujl2He7fMS72RPDthnhbHKuo3tQBc3+jJQMB4="
+nextPreKeyId	32
+firstUnuploadedPreKeyId	32
+serverHasPreKeys	true
+account	
+details	"CIP4q2cQzZ+uowYYAQ=="
+accountSignatureKey	"2iemWRROEEh6iTmgaEgG9UVwMBB1rjOjZiI4B9a5v3A="
+accountSignature	"U4yMypZ+XJYD3wjfswN5fEDUcWtPtj3slG6lgp+5NbhoCFhmiWt6gyJaWxJypkZNdduFJQ/pdJ7UOQRV82xlCw=="
+deviceSignature	"t3LjfB0hZcz1uRxpUNpriVT2EY61nAElYG9PSDeOwpYUAMiTLYkmpzn57kTtMWO8B5ftIJQPGuevnXaGGuG7iA=="
+me	
+id	"94765888342:11@s.whatsapp.net"
+verifiedName	"tehandissanayake7075"
+name	"tehandissanayake7075"
+signalIdentities	
+0	
+identifier	
+name	"94765888342:11@s.whatsapp.net"
+deviceId	0
+identifierKey	
+type	"Buffer"
+data	"BdonplkUThBIeok5oGhIBvVFcDAQda4zo2YiOAfWub9w"
+lastAccountSyncTimestamp	1684770769
+keys	
+preKeys	
+1	
+private	
+type	"Buffer"
+data	"qM96bmBB7eFA1MngK2fqieE3IhDDysUpHX6ItU3DVmg="
+public	
+type	"Buffer"
+data	"eZRyiD3udQl4htnPgSTnrpib2i2jIxH8kQ+kuE9AHXQ="
+2	
+private	
+type	"Buffer"
+data	"kEXlp5BIAT3LWgu2nB5hfQEUjSABMsij5c3aMqTBMnU="
+public	
+type	"Buffer"
+data	"Oz8NVPkvof+y6II+wi+NheOee1qzRwwl3ushudtR/x4="
+3	
+private	
+type	"Buffer"
+data	"yDIHH1zLahl2uhP/mZ+qYyz+tTKnSX6XN6qLGJsdUlU="
+public	
+type	"Buffer"
+data	"dp8G4eA1/z2IuKutbIZ8T67vGIndgeyxz/5DWk1tfEk="
+4	
+private	
+type	"Buffer"
+data	"MPuGaiCThvdtkerRfxaBYKpfe2z2sZ6jYvIXON9hL2w="
+public	
+type	"Buffer"
+data	"zKpLWK08PdITopqgq2PhwkIEXrhCb3/YHY1DaxrZ9yA="
+5	
+private	
+type	"Buffer"
+data	"cKoC3GF7GQhswCR4mrcqf1p9/JAPlRThUpkJ2agz42A="
+public	
+type	"Buffer"
+data	"O8zomEd1Nbe9XbYh47Tr4cZu30qqYR/yGjXKuvNHLiU="
+6	
+private	
+type	"Buffer"
+data	"UONC7Q6aWd/O8Dqg1c7E4rs3G/Q175S9yuIpylizS1k="
+public	
+type	"Buffer"
+data	"aBPypjwCs3t0aol0kWgDntt1XSbK0mUOD2zHncF8v00="
+7	null
+8	
+private	
+type	"Buffer"
+data	"0Le3TSZg3yxITeJ6S4v/TXd1rtifh8V5kstg8a+0aEA="
+public	
+type	"Buffer"
+data	"6zQfRX8IJOhhKoq+Z7PnC19GyvAHH5a1V04DyZU2nkc="
+9	
+private	
+type	"Buffer"
+data	"4A99YgG+mvEkwBssVzsRfUz0jWjKyiHwwzPS1WpNhm8="
+public	
+type	"Buffer"
+data	"iL8YjpyFeVca/SYx6luhQUYQuO83MTDYoWhPz6UmYTs="
+10	
+private	
+type	"Buffer"
+data	"gLzUivD3oMiMZAWJ5+NZih0t8J0J/17ZfgwED2hpqEk="
+public	
+type	"Buffer"
+data	"aHNYRzPtCwqoi9BKjorarAiDY8/PxtL2IggMclZJDAg="
+11	
+private	
+type	"Buffer"
+data	"gP1ZWaBlalrUlU/lWH55loUQsIGO0C2NNRME/VFFWk0="
+public	
+type	"Buffer"
+data	"S9vvG+9Drh/FT0AXUFDP/O6111ARThIx3d9KiLrAagI="
+12	
+private	
+type	"Buffer"
+data	"sA0QHnZJzcekaJhBuyIHeRjVs5uHxtTffPWdYaS1tn0="
+public	
+type	"Buffer"
+data	"qXESnRTr/dCceiH1h6QQg3bPuZP17lLHsHV+5wqG8GM="
+13	
+private	
+type	"Buffer"
+data	"QEv9iog6zD1SBZvZgylJ1HnH1UNQsSQlvAvfh+yzMWw="
+public	
+type	"Buffer"
+data	"1+u7n4Ubh6QT6CF2KLJxzFtoUl59uLb5osmDXdQ3oEI="
+14	
+private	
+type	"Buffer"
+data	"AKS5kxggBn3uvDne61bsX8ek3idPvZ1fhQPFXWPuNHI="
+public	
+type	"Buffer"
+data	"eki/SduYbGD+jYpp83RalxnBcGExCBJ++fyHHnakMWQ="
+15	
+private	
+type	"Buffer"
+data	"ICn7ig8m2xuDqhC45a8zyi5bE4auXjUG1H1DSZZ2gnI="
+public	
+type	"Buffer"
+data	"A0tpHi5+p+raj3VrC5Cd5/tnoyvYS/MTwbuQHcoA+iM="
+16	
+private	
+type	"Buffer"
+data	"uFwOx3yfd5+Rg5LTiOzJVoCOtwKatNBvpP+rT93/jGY="
+public	
+type	"Buffer"
+data	"l5AAyK0Atfdv8jniK29EXYXe9ZOz/PBlYxbby73x+no="
+17	
+private	
+type	"Buffer"
+data	"0GtWJ9eN4RSEGjG8QjA+5mV4SOQUPqh3CuZCUu4HJ2w="
+public	
+type	"Buffer"
+data	"3gNTxB5yXd2EIuROxvLny1NxLiKdzFAC9RB9pqzlIgk="
+18	
+private	
+type	"Buffer"
+data	"OMq7eT7PBrYzr6+GlhEN8FFETnekBsEfqTvWGNWuWlc="
+public	
+type	"Buffer"
+data	"pK9TZO66AzFMEdts6ikPFyJqW5KYufrhM9BpAmXQCwA="
+19	
+private	
+type	"Buffer"
+data	"WE0XaOTzqSb49rv1vAFwOVHSEDFuuAApixKyonspVlo="
+public	
+type	"Buffer"
+data	"ZG/ggECcr9eT1kVeNryWBR+ylAUCN7YozH+TwLyt0FM="
+20	
+private	
+type	"Buffer"
+data	"WDMGbhB6A1xCC9Cv1phrdI8nFIgmrbcuVVXmasHzKUQ="
+public	
+type	"Buffer"
+data	"uvL9S7hFRQ7lCn3mfI14Pugw9zGXbeUrQFM/+GRhMGw="
+21	
+private	
+type	"Buffer"
+data	"YAgYzHho1VHAW0FtS1vvnO3fdAmM0kVE6r5FLpWs1Fc="
+public	
+type	"Buffer"
+data	"7swqdRNUOAK3y2BKdYyuFGNF8XPQ6buJ90CYp3SZIWA="
+22	
+private	
+type	"Buffer"
+data	"0F4RxiiYYjkxblGBJm1YGhtS51ldolx0AYuPxZtKZnQ="
+public	
+type	"Buffer"
+data	"n/liMJwbDZc6UiB6aRN1tLb1mCTj0ckUzIPsXd9wwAM="
+23	
+private	
+type	"Buffer"
+data	"yO7GRkKjF+KPOtem8Pj3gDVz74bgnj56SeuT/wpku1w="
+public	
+type	"Buffer"
+data	"BMOhr7xpcQaF9x63wQuA2WzSJDxLmSV90nul/mqPdBE="
+24	
+private	
+type	"Buffer"
+data	"gKg7vchE0SvNbHo13TQCN26H+5awxV1tcHABAm8lsFs="
+public	
+type	"Buffer"
+data	"1Huw0R4tuA0a8mkM+90egaNuFF9LUONOo6AFg9TKQUU="
+25	
+private	
+type	"Buffer"
+data	"aLQJl/x3DocIzt76TatjRlUDHaEtFkvi312X5v2LSXk="
+public	
+type	"Buffer"
+data	"nT0/xVk8ih1klJCPqGz1fTYjcFgV6vaH0z+D/L/DwFk="
+26	
+private	
+type	"Buffer"
+data	"uAnCbEUpH5a2ZGFMSr9JytTKUgqV9tiRzWwPW+bPqEw="
+public	
+type	"Buffer"
+data	"hSkFb6AFRERAIvkYZw4qnVwxHIcgkeXPsU0TaYfCkBU="
+27	
+private	
+type	"Buffer"
+data	"mP4YydQ3kWx9/uG4IqBA4pTBGa8Z2srzBoJpEkT0s3E="
+public	
+type	"Buffer"
+data	"HCBsrVsPXmi4m+xZFhCV05n62tF8/V7Zj5PcDmiI234="
+28	
+private	
+type	"Buffer"
+data	"6ISQYe/vuUihHnkhCYBcFAsoXyHUmfjxgvyqoff/B1o="
+public	
+type	"Buffer"
+data	"39zlQBJ5ZkPZGdVzOSxlMBIitDlIR1gsTyh+COfxXVw="
+29	
+private	
+type	"Buffer"
+data	"YJRdn/VhaempVnD6X0v/ucy/quqcXzOAYasxlnThaFg="
+public	
+type	"Buffer"
+data	"3/c1VGZSQgpf14fcIyNFww6YWeP2zdTex09blbaa2WM="
+30	
+private	
+type	"Buffer"
+data	"kAnbp7pGmxHSpQApd8VpbA7pp2Hv+vL1wHR3RkwP7Wg="
+public	
+type	"Buffer"
+data	"nix6Mquo/TbGjCLnx7I9UCoZFHEwu/E5ORIDi/lI918="
+31	
+private	
+type	"Buffer"
+data	"0PZEavdxoGIBXXOMKzhR3oZHKZu5JOLNtkYwrCahSHg="
+public	
+type	"Buffer"
+data	"yzBmaXNrTA1nPpxaCTkOvegI7BofoJZBRBAacachliU="
+sessions	
+94765888342.0	
+_sessions	
+BczEnki3gCHPTq3otvuSL2JeDbVQxWGulh2f4VkQePQg	
+registrationId	1419102036
+currentRatchet	
+ephemeralKeyPair	
+pubKey	"BZO0XA85Bsma8kZqT8ooBYoAHHUxgf0HZ7maEIqGRqQp"
+privKey	"cGaQl+/ZcOpfNphlncuauLANyoo0iGMkFcjoaB7q/lI="
+lastRemoteEphemeralKey	"BUuRa54cagx2LKZatvycJd07qFQ69mePhvktJtBaj2QV"
+previousCounter	0
+rootKey	"fBxyjn/ZTKDaerwSh/wnxEKQjRVbHtCMvvuPBIzLccI="
+indexInfo	
+baseKey	"BczEnki3gCHPTq3otvuSL2JeDbVQxWGulh2f4VkQePQg"
+baseKeyType	2
+closed	-1
+used	1684770771976
+created	1684770771976
+remoteIdentityKey	"BdonplkUThBIeok5oGhIBvVFcDAQda4zo2YiOAfWub9w"
+_chains	
+BUuRa54cagx2LKZatvycJd07qFQ69mePhvktJtBaj2QV	
+chainKey	{…}
+chainType	2
+messageKeys	{}
+BZO0XA85Bsma8kZqT8ooBYoAHHUxgf0HZ7maEIqGRqQp	
+chainKey	{…}
+chainType	1
+messageKeys	{}
+version	"v1"
